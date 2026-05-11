@@ -52,11 +52,4 @@
 * [cite_start]**Visualization:** Folium & Streamlit [cite: 13, 43]
 
 ---
-
-## 👤 Developer
-**Kittikhun (Plam) Tantemsup**
-* Super AI Engineer Season 6 (ID: 604905)
-* Specialization: AI Business Improvement & Data Engineering
-
----
 [cite_start]*Zero Cost Declaration: All tools and data used in this project are 100% Free/Open Source.* [cite: 57]
