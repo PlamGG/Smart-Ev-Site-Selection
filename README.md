@@ -124,6 +124,10 @@ flowchart TD
 | Streamlit | Interactive Dashboard |
 | Hugging Face Space | Deploy Dashboard |
 
+## 🖥️ Live Demo
+
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl.svg)](https://huggingface.co/spaces/DuckerMaster/EV_Site_Optimizer)
+
 
 ---
 
